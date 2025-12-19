@@ -1,4 +1,4 @@
-]# 📌 PDFWordGeneratorBot
+# 📌 PDFWordGeneratorBot
 
 PDFWordGeneratorBot (@PDFWordGeneratorBot) sizning matningizni bir necha soniya ichida turli formatdagi fayllarga aylantiradi.  
 
