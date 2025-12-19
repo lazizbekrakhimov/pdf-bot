@@ -74,9 +74,9 @@ bot.on("text", async ctx => {
   await ctx.reply(
     "✅ Matningiz qabul qilindi, fayl turini tanlang:",
     Markup.inlineKeyboard([
-      [Markup.button.callback("PDF", "pdf")],
-      [Markup.button.callback("Word", "word")],
-      [Markup.button.callback("PowerPoint", "pptx")]
+      [Markup.button.callback("PDF📄", "pdf")],
+      [Markup.button.callback("Word📝", "word")],
+      [Markup.button.callback("PowerPoint📊", "pptx")]
     ])
   );
 });
